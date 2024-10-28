@@ -1,0 +1,23 @@
+[
+    {
+      "role": "Research Assistant",
+      "organization": " KUARQ Research Lab",
+      "startDate": "Dec, 2023",
+      "endDate": "Present",
+      "experiences": ["Simulated Quantum Algorithms on AI chips", "Co-authored, reviewed and proofread research papers and posters."],
+      "imageSrc": "history/kuarq.png",
+      "link": "https://sites.google.com/view/esam-el-araby/research-group/member-biographies?authuser=0"
+    },
+
+
+    {
+      "role": "Research Assistant",
+      "organization": " KU Dept. of Phsics and Astronomy",
+      "startDate": "May, 2022",
+      "endDate": "Dec, 2023",
+      "experiences": ["Analyzed music data to find optimum way of compression.", "Utilized FPGA to implement SVD algorithm on real time data."],
+      "imageSrc": "history/KULogo.png",
+      "link": "https://physics.ku.edu/"
+    }
+    
+  ]

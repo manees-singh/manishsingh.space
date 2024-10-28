@@ -1,0 +1,19 @@
+[
+    {
+      "title": "Olympics Medal Tracker",
+      "imageSrc": "projects/twitterbot.png",
+      "description": "A twitterbot that tweets the latest medal count for the Olympics.",
+      "skills": ["Python", "Tweepy", "GitHub Actions"],
+      "demo": "https://x.com/olympics_24",
+      "source": "https://github.com/manees-singh/olympics-medal"
+    },
+    {
+      "title": "NeoPyramid",
+      "imageSrc": "projects/servo.jpg",
+      "description": "Automated mini-tank to shoot targets in the range.",
+      "skills": ["Arduino", "C++"],
+      "demo": "https://www.instagram.com/p/C3QFKbUgGqWXdaIhqapy8qXluPq8LpMv5wjlo00/?img_index=1",
+      "source": "https://github.com/manees-singh/NeoPyramid"
+    }
+   
+  ]

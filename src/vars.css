@@ -1,0 +1,16 @@
+/* folder contains components that can be used in several places without much changes. */
+
+
+:root {
+    --primary-color: #576cbc;
+    --secondary-color: #19376d;
+    --background-color: #ecf0f1;
+    --text-color: #fff;
+    --color-dark: #0b2447;
+    --color-bg: #04152d;
+
+
+
+
+    --font-roboto: 'Roboto';
+}
